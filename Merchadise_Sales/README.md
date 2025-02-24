@@ -1,4 +1,4 @@
-# Merchadise Sales Analysis
+# Merchandise Sales Analysis
 
 ## Tools used
 
